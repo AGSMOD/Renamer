@@ -73,7 +73,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/AgsMods")
                 ],[
-                InlineKeyboardButton("🤍 𝗠𝗢𝗩𝗜𝗘𝗦🤍", url='https://t.me/Movies_Hub_Og2)
+                InlineKeyboardButton("🤍MOVIES🤍", url='https://t.me/Movies_Hub_Og2)
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
